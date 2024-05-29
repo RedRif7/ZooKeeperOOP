@@ -1,0 +1,11 @@
+{
+    "require": {
+        "jawira/emoji-catalog": "^15.1",
+        "nesbot/carbon": "^2.72"
+    },
+    "autoload": {
+        "psr-4": {
+            "Zookeeper\\": "src/"
+        }
+    }
+}
